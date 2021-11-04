@@ -2,4 +2,5 @@ This project is for documenting the tech websites which are blocked within China
 
 [Hacker News](https://news.ycombinator.com/)  
 [Medium.com](https://medium.com)  
-[Reddit](https://reddit.com)
+[Reddit](https://reddit.com)  
+[Tech Crunch](https://techcrunch.com) 2021-11-01  
